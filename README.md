@@ -17,3 +17,6 @@ Instrucitons:
 Open server.py, (once you fixed it)
 Open http://127.0.0.1:5000
 There you go open client.py to test.
+
+![image](https://github.com/user-attachments/assets/295e69f8-17c9-4f94-a662-15c82dedfadc)
+
