@@ -1,0 +1,42 @@
+/* styles-light.css */
+/* Base styles for light theme */
+body.white {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.menu.white {
+    background-color: #f8f9fa;
+}
+
+.menu.white li:hover,
+.menu.white li.active {
+    background-color: #e2e6ea;
+}
+
+.logout-button.white {
+    background-color: #f8f9fa;
+    color: #000000;
+}
+
+.logout-button.white:hover {
+    background-color: #e2e6ea;
+}
+
+.small-box button.white {
+    background-color: #f8f9fa;
+    color: #000000;
+    border: 1px solid #000000;
+}
+
+.small-box button.white:hover {
+    background-color: #e2e6ea;
+}
+
+table.white th, table.white td {
+    color: #000000;
+}
+
+table.white th {
+    background-color: #e2e6ea;
+}
