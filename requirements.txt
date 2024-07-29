@@ -1,0 +1,12 @@
+Flask==2.0.3
+Flask-SocketIO==5.1.1
+python-socketio==5.4.0
+PyAutoGUI==0.9.53
+opencv-python==4.5.3.56
+pillow==8.4.0
+pynput==1.7.6
+pycaw==20210328
+cryptography==3.4.8
+requests==2.26.0
+pycryptodome==3.11.0
+pyinstaller==4.5.1
