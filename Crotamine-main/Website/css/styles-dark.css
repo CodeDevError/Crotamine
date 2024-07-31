@@ -1,0 +1,44 @@
+/* styles-dark.css */
+body.dark {
+    background-color: #333;
+    color: #fff;
+}
+
+.menu.dark {
+    background: #222;
+    color: #fff;
+}
+
+.big-box.dark {
+    background: #444;
+    color: #fff;
+}
+
+.menu li.dark:hover, .menu li.active.dark {
+    background: #555;
+    transition: background 0.3s ease;
+}
+
+table th.dark, table td.dark {
+    color: #000; /* Ensure text color is black in dark mode */
+}
+
+/* Additional dark theme-specific styles */
+table th.dark {
+    background-color: #555; /* Set background color for table headers in dark mode */
+    color: #000; /* Ensure text color is black */
+}
+
+table td.dark {
+    background-color: #444; /* Set background color for table cells in dark mode */
+    color: #000; /* Ensure text color is black */
+}
+
+/* Ensure these styles are applied */
+body.dark table th {
+    color: #000;
+}
+
+body.dark table td {
+    color: #000;
+}
