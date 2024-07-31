@@ -21,11 +21,7 @@ Username = "1"
 Password = "1!
 
 You should be redirected into the home screen. If you are not an stuck in a loop refresh the page. This is a bug which i have no fixed yet.
-There are limited commands for now:
-"list"  - list all connections 
-"connect <ip>" - connect to a client. If its locally run you need to use the 127.0.0.1 ip.
-"tasklist" List all tasks. The ui for this is a bit messed up  will be fixed soon.
-"screenshare" screenshare the screen. Future updates will screenshare the clients screen though web browser.
+UPDATED : Loads of commands look at wiki
 
 
 WHEN WILL IT BE PAID?
