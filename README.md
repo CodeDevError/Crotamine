@@ -33,7 +33,7 @@ As for now it will be free and recive frequent updates. However im planning to m
 Pre Release Price : £5 - this is before you can buy. Estimated launch date 1/09/2024
 Release Price : £15 - code will be downloadable, there may be some bugs. Estimated launch date 1/11/2024
 Full Release : £40 - code will be fully functional, no bugs. Estimated launch date 1/12/2024
--
+
 
 Whenever you buy, you will always recive updates
 
