@@ -21,7 +21,20 @@ Username = "1"
 Password = "1!
 
 You should be redirected into the home screen. If you are not an stuck in a loop refresh the page. This is a bug which i have no fixed yet.
+
+COMMANDS:
 UPDATED : Loads of commands look at wiki
+
+WHATS NEXT : 
+- Make screenshare web based
+- Make webcam web based
+- Update Client page to display connections
+PREMIUM : 
+- Root kit
+- Spread across LAN
+- DDOS
+
+
 
 
 WHEN WILL IT BE PAID?
@@ -31,7 +44,7 @@ Release Price : £15 - code will be downloadable, there may be some bugs. Estima
 Full Release : £40 - code will be fully functional, no bugs. Estimated launch date 1/12/2024
 
 
-Whenever you buy, you will always recive updates
+Whenever you buy, you will always recieve updates
 
 ![image](https://github.com/user-attachments/assets/295e69f8-17c9-4f94-a662-15c82dedfadc)
 
