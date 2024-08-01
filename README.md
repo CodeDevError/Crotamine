@@ -3,7 +3,7 @@ A web based C2C rat for windows!
 
 
 Crotamine is the best C2C rat for windows. With its clean browser control pannel to its functional loading screen what more could you ask?
-This project will have serveral updates to come, however in the near future it will soon become paid. 
+It is also currently undetected on virus total!
 -
 
 
