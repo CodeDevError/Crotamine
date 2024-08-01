@@ -29,7 +29,8 @@ WHATS NEXT :
 - Make screenshare web based
 - Make webcam web based
 - Update Client page to display connections
-- PREMIUM : 
+
+PREMIUM : 
 - Root kit
 - Spread across LAN
 - DDOS
